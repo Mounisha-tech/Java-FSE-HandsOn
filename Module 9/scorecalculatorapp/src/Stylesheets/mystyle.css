@@ -1,0 +1,22 @@
+.box{
+    width:400px;
+    margin:auto;
+    margin-top:50px;
+    border:2px solid black;
+    padding:20px;
+    background-color:lightblue;
+    border-radius:10px;
+    text-align:center;
+}
+
+h2{
+    color:blue;
+}
+
+h3{
+    color:red;
+}
+
+p{
+    font-size:18px;
+}
